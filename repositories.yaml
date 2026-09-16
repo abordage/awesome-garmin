@@ -1,0 +1,9 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/abordage/schemas/main/schemas/awesome-repositories/awesome-repositories.schema.json
+$schema: https://raw.githubusercontent.com/abordage/schemas/main/schemas/awesome-repositories/awesome-repositories.schema.json
+
+categories:
+  - name: Watch Faces
+  - name: Data Fields
+  - name: Widgets
+  - name: Device Apps
+  - name: Tools
