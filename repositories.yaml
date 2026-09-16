@@ -8,6 +8,7 @@ categories:
       - url: https://github.com/abrander/garmin-connect
       - url: https://github.com/bes-dev/garmy
       - url: https://github.com/bpauli/gccli
+        description: CLI for Connect activities, health, workouts, and devices
       - url: https://github.com/cyberjunky/python-garminconnect
         description: Python 3 wrapper to read and write Garmin Connect
       - url: https://github.com/lswiderski/yet-another-garmin-connect-client
@@ -24,6 +25,7 @@ categories:
       - url: https://github.com/dougw/Garmin-ExampleApp-Swift
       - url: https://github.com/garmin/connectiq-android-sdk
       - url: https://github.com/garmin/connectiq-companion-app-example-ios
+        description: Example iOS app using the Companion App SDK
       - url: https://github.com/garmin/connectiq-companion-app-sdk-ios
         description: iOS SDK for companion apps talking to Monkey C
       - url: https://github.com/gimportexportdevs/gexporter
@@ -246,6 +248,7 @@ categories:
           - url: https://github.com/dkappler/kraken
           - url: https://github.com/dliedke/Meditate
           - url: https://github.com/dmrrlc/connectiq-sailing
+            description: Sailing app with knots, heading, and race countdown
           - url: https://github.com/eden159/garmin-checkpoint
           - url: https://github.com/electrofloat/BPTransport-Garmin
           - url: https://github.com/eriklupander/Fenix3GolfDistance
@@ -780,6 +783,7 @@ categories:
       - name: Visualization
         repos:
           - url: https://github.com/Aebel-Shajan/year-in-data
+            description: Annual activity heatmaps from Garmin and other data
           - url: https://github.com/alex-hhh/ActivityLog2
           - url: https://github.com/arpanghosh8453/fit-dashboard
             description: Offline desktop dashboard for Garmin FIT files
@@ -791,7 +795,9 @@ categories:
             description: Central app for Garmin, Suunto, and Coros data
           - url: https://github.com/peregin/gps-overlay-on-video
           - url: https://github.com/RafaTatay/garming-stats
+            description: Self-hosted activity stats as a Strava Premium stand-in
           - url: https://github.com/tumic0/GPXSee
+            description: GPS log viewer for GPX, FIT, TCX, KML, and more
           - url: https://github.com/yihong0618/running_page
   - name: Developer Tools
     subcategories:
@@ -837,6 +843,7 @@ categories:
           - url: https://github.com/himanushi/dithering-converter
           - url: https://github.com/kalemena/docker-connectiq
           - url: https://github.com/Likenttt/garmin-connectiq-samples-brief-explanations
+            description: Connect IQ samples and FAQ notes
           - url: https://github.com/maca88/directive-preprocessor
           - url: https://github.com/markw65/monkeyc-optimizer
           - url: https://github.com/matco/action-connectiq-tester
@@ -877,6 +884,7 @@ categories:
           - url: https://github.com/drkostas/hevy2garmin
             description: Sync Hevy workouts, sets, and HR to Garmin Connect
           - url: https://github.com/endurain-project/endurain
+            description: Self-hosted fitness tracker with full data control
           - url: https://github.com/finbar-curtin/GRIB-via-inReach
           - url: https://github.com/fulippo/share-your-garmin-workout
             description: Chrome extension to share Garmin Connect workouts
