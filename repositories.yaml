@@ -7,8 +7,10 @@ categories:
       - url: https://github.com/10REM/php-garmin-connect
       - url: https://github.com/abrander/garmin-connect
       - url: https://github.com/bes-dev/garmy
+      - url: https://github.com/bpauli/gccli
       - url: https://github.com/cyberjunky/python-garminconnect
         description: Python 3 wrapper to read and write Garmin Connect
+      - url: https://github.com/lswiderski/yet-another-garmin-connect-client
       - url: https://github.com/matin/garth
       - url: https://github.com/mkuthan/garmin-workouts
       - url: https://github.com/Pythe1337N/garmin-connect
@@ -21,6 +23,7 @@ categories:
       - url: https://github.com/Cougargriff/SensorTriggerIQ
       - url: https://github.com/dougw/Garmin-ExampleApp-Swift
       - url: https://github.com/garmin/connectiq-android-sdk
+      - url: https://github.com/garmin/connectiq-companion-app-example-ios
       - url: https://github.com/garmin/connectiq-companion-app-sdk-ios
         description: iOS SDK for companion apps talking to Monkey C
       - url: https://github.com/gimportexportdevs/gexporter
@@ -29,6 +32,7 @@ categories:
       - url: https://github.com/kite247/Onewheel2Garmin
       - url: https://github.com/MatyasKriz/ios-connect-iq-comms
         description: Two-way iOS companion and Connect IQ sample
+      - url: https://github.com/pauljohnston2025/breadcrumb-mobile
       - url: https://github.com/robertmpowell/OBD2Reader
       - url: https://github.com/starryalley/Unquestionify-android
       - url: https://github.com/TDF-PL/TAKWatch
@@ -241,6 +245,7 @@ categories:
           - url: https://github.com/dazey77/Horizontal-speedo-rep
           - url: https://github.com/dkappler/kraken
           - url: https://github.com/dliedke/Meditate
+          - url: https://github.com/dmrrlc/connectiq-sailing
           - url: https://github.com/eden159/garmin-checkpoint
           - url: https://github.com/electrofloat/BPTransport-Garmin
           - url: https://github.com/eriklupander/Fenix3GolfDistance
@@ -728,6 +733,7 @@ categories:
           - url: https://github.com/petergardfjall/garminexport
           - url: https://github.com/tcgoetz/GarminDB
             description: Parse Connect, FIT, Fitbit, and MS Health into SQLite
+          - url: https://github.com/tcgoetz/GarminDbPlugins
           - url: https://github.com/tinymetrix/client
       - name: FIT
         repos:
@@ -753,6 +759,7 @@ categories:
             description: Convert FIT to GPX, CSV, HR, HRV, SpO2, and SQLite
           - url: https://github.com/muktihari/fit
             description: Go FIT SDK for protocol v2 encode and decode
+          - url: https://github.com/muktihari/rustyfit
           - url: https://github.com/Nick2bad4u/FitFileViewer
             description: Cross-platform FIT file analyzer for Windows, Mac, Linux
           - url: https://github.com/openivity/openivity.github.io
@@ -772,6 +779,8 @@ categories:
           - url: https://github.com/wuyongzheng/gimgtools
       - name: Visualization
         repos:
+          - url: https://github.com/Aebel-Shajan/year-in-data
+          - url: https://github.com/alex-hhh/ActivityLog2
           - url: https://github.com/arpanghosh8453/fit-dashboard
             description: Offline desktop dashboard for Garmin FIT files
           - url: https://github.com/arpanghosh8453/garmin-grafana
@@ -780,6 +789,9 @@ categories:
             description: Strava and Garmin activities as GitHub-style graphs
           - url: https://github.com/jimmykane/quantified-self
             description: Central app for Garmin, Suunto, and Coros data
+          - url: https://github.com/peregin/gps-overlay-on-video
+          - url: https://github.com/RafaTatay/garming-stats
+          - url: https://github.com/tumic0/GPXSee
           - url: https://github.com/yihong0618/running_page
   - name: Developer Tools
     subcategories:
@@ -814,6 +826,9 @@ categories:
           - url: https://github.com/flocsy/garmin-dev-tools
           - url: https://github.com/flocsy/GarminSportsDev
           - url: https://github.com/flocsy/VibraTest
+          - url: https://github.com/garmin/ActiveCaptainCommunitySDK-android
+          - url: https://github.com/garmin/ActiveCaptainCommunitySDK-common
+          - url: https://github.com/garmin/ActiveCaptainCommunitySDK-ios
           - url: https://github.com/garmin/connectiq-apps
           - url: https://github.com/gcaufield/MonkeyContainer
           - url: https://github.com/gcaufield/MonkeyInject
@@ -821,6 +836,7 @@ categories:
           - url: https://github.com/gcaufield/MonkeyTest
           - url: https://github.com/himanushi/dithering-converter
           - url: https://github.com/kalemena/docker-connectiq
+          - url: https://github.com/Likenttt/garmin-connectiq-samples-brief-explanations
           - url: https://github.com/maca88/directive-preprocessor
           - url: https://github.com/markw65/monkeyc-optimizer
           - url: https://github.com/matco/action-connectiq-tester
@@ -841,6 +857,7 @@ categories:
         repos:
           - url: https://github.com/AlexxIT/SmartScaleConnect
             description: Sync smart scale data between ecosystems
+          - url: https://github.com/jaroslawhartman/withings-sync
           - url: https://github.com/KristianP26/ble-scale-sync
             description: BLE scale bridge to Connect, Strava, MQTT, and files
           - url: https://github.com/lswiderski/mi-scale-exporter
@@ -855,19 +872,25 @@ categories:
             description: Garmin Connect data in Home Assistant
       - name: Sync
         repos:
+          - url: https://github.com/alex-hhh/PiFitSync
           - url: https://github.com/chloevoyer/garmin-to-notion
           - url: https://github.com/drkostas/hevy2garmin
             description: Sync Hevy workouts, sets, and HR to Garmin Connect
+          - url: https://github.com/endurain-project/endurain
+          - url: https://github.com/finbar-curtin/GRIB-via-inReach
           - url: https://github.com/fulippo/share-your-garmin-workout
             description: Chrome extension to share Garmin Connect workouts
+          - url: https://github.com/gloscherrybomb/TPV2Garmin
           - url: https://github.com/jamiemitchellconsultants/MapToGarmin
           - url: https://github.com/jamiemitchellconsultants/RouteTimer
           - url: https://github.com/mgifos/quick-plan
+          - url: https://github.com/Nick-W/InreachIPC
           - url: https://github.com/OpenGIS/Inreach-Mapshare
           - url: https://github.com/philosowaffle/peloton-to-garmin
             description: Convert Peloton workouts to FIT and upload
           - url: https://github.com/simonepri/fitbit2garmin
             description: Export Fitbit body, activity, and GPS for Connect
+          - url: https://github.com/snstac/inrcot
           - url: https://github.com/sydspost/Garmin-Connect-Workout-and-Schedule-creator
   - name: MCP Servers
     repos:
