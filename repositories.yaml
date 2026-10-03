@@ -367,6 +367,8 @@ categories:
           - url: https://github.com/slipperybee/connectiq-jewish-calendar
           - url: https://github.com/sohaeb/Garmin_pomodoro
           - url: https://github.com/Sonicious/GarminApps
+          - url: https://github.com/suskozaver/gkg
+            description: Google Keep lists on the watch, via a self-hosted server
           - url: https://github.com/Tamarpe/CatFacts
           - url: https://github.com/TDF-PL/TAKWatch-IQ
             description: ATAK integration for Garmin Connect IQ devices
