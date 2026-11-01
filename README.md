@@ -141,8 +141,8 @@ Connect IQ apps, Garmin Connect API, FIT tools, maps, and integrations. This awe
 - [garmin/fit-objective-c-sdk](https://github.com/garmin/fit-objective-c-sdk) — Official Garmin FIT Objective-C SDK ☆`35`
 - [garmin/fit-csharp-sdk](https://github.com/garmin/fit-csharp-sdk) — Official C# SDK to encode and decode FIT files ☆`27`
 - [garmin/fit-swift-sdk](https://github.com/garmin/fit-swift-sdk) — Official Garmin FIT Swift SDK ☆`24`
-- [MaksVasilev/fit2gpx](https://github.com/MaksVasilev/fit2gpx) — Convert FIT to GPX, CSV, HR, HRV, SpO2, and SQLite ☆`39`
 - [muktihari/rustyfit](https://github.com/muktihari/rustyfit) — The #![no_std] Rust library for decoding and encoding Garmin FIT files supporting FIT Protocol V2. ☆`16`
+- [MaksVasilev/fit2gpx](https://github.com/MaksVasilev/fit2gpx) — Convert FIT to GPX, CSV, HR, HRV, SpO2, and SQLite ☆`39`
 ### Maps
 
 - [ligfietser/mkgmap-style-sheets](https://github.com/ligfietser/mkgmap-style-sheets) — mkgmap style sheets for OSM Garmin vector maps ☆`53`
