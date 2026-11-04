@@ -907,3 +907,5 @@ categories:
       - url: https://github.com/Taxuspt/garmin_mcp
       - url: https://github.com/Wewoc/Garmin_Local_Archive
         description: Local-first Windows archive of Connect health data
+      - url: https://github.com/anup-shesh/garmin-local-mcp
+        description: "Local Garmin data warehouse and MCP server for Connect"
