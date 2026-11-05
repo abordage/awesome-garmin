@@ -659,6 +659,7 @@ categories:
           - url: https://github.com/GuMiner/garmin-JustOneButton
           - url: https://github.com/hakonrossebo/FootballFixtures
           - url: https://github.com/haraldh/SunCalc
+            description: Connect IQ widget for sunrise, sunset, dawn, dusk and blue hour
           - url: https://github.com/hasscontrol/hasscontrol
           - url: https://github.com/hatl/hasscontrol
           - url: https://github.com/hexaguin/Connect-IQ-ThingSpeak-Client
@@ -765,6 +766,7 @@ categories:
           - url: https://github.com/muktihari/fit
             description: Go FIT SDK for protocol v2 encode and decode
           - url: https://github.com/muktihari/rustyfit
+            description: no_std Rust library that reads and writes Garmin FIT files
           - url: https://github.com/Nick2bad4u/FitFileViewer
             description: Cross-platform FIT file analyzer for Windows, Mac, Linux
           - url: https://github.com/openivity/openivity.github.io
