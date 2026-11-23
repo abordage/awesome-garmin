@@ -149,7 +149,7 @@ Connect IQ apps, Garmin Connect API, FIT tools, maps, and integrations. This awe
 
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) — Make your own running home page ☆`4,572`
 - [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) — Fetch Connect health data into InfluxDB and Grafana ☆`3,563`
-- [tumic0/GPXSee](https://github.com/tumic0/GPXSee) — GPS log viewer for GPX, FIT, TCX, KML, and more ☆`1,267`
+- [tumic0/GPXSee](https://github.com/tumic0/GPXSee) — GPS log viewer and analyzer for GPX, TCX, KML, and FIT ☆`1,267`
 - [alex-hhh/ActivityLog2](https://github.com/alex-hhh/ActivityLog2) — Analyze data from swim, bike and run activities ☆`369`
 - [peregin/gps-overlay-on-video](https://github.com/peregin/gps-overlay-on-video) — Telemetry (GPS) data overlay on videos ☆`363`
 - [aspain/git-sweaty](https://github.com/aspain/git-sweaty) — Strava and Garmin activities as GitHub-style graphs ☆`272`
@@ -215,7 +215,7 @@ Connect IQ apps, Garmin Connect API, FIT tools, maps, and integrations. This awe
 1. [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) — Python 3 wrapper to read and write Garmin Connect ☆`3,284`
 1. [endurain-project/endurain](https://github.com/endurain-project/endurain) — Self-hosted fitness tracker with full data control ☆`2,410`
 1. [Taxuspt/garmin_mcp](https://github.com/Taxuspt/garmin_mcp) — MCP server to access Garmin data ☆`1,541`
-1. [tumic0/GPXSee](https://github.com/tumic0/GPXSee) — GPS log viewer for GPX, FIT, TCX, KML, and more ☆`1,267`
+1. [tumic0/GPXSee](https://github.com/tumic0/GPXSee) — GPS log viewer and analyzer for GPX, TCX, KML, and FIT ☆`1,267`
 1. [dtcooper/python-fitparse](https://github.com/dtcooper/python-fitparse) — Python library to parse ANT/Garmin .FIT files ☆`826`
 1. [jaroslawhartman/withings-sync](https://github.com/jaroslawhartman/withings-sync) — Synchronisation of Withings weight ☆`705`
 1. [garmin/connectiq-apps](https://github.com/garmin/connectiq-apps) — A collection of Connect IQ apps. ☆`596`
