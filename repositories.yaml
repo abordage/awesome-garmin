@@ -820,7 +820,7 @@ categories:
           - url: https://github.com/RafaTatay/garming-stats
             description: Self-hosted activity stats as a Strava Premium stand-in
           - url: https://github.com/tumic0/GPXSee
-            description: GPS log viewer for GPX, FIT, TCX, KML, and more
+            description: "GPS log viewer and analyzer for GPX, TCX, KML, and FIT"
           - url: https://github.com/yihong0618/running_page
   - name: Developer Tools
     subcategories:
