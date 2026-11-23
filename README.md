@@ -263,9 +263,9 @@ Connect IQ apps, Garmin Connect API, FIT tools, maps, and integrations. This awe
 
 ---
 
-## 40 recently updated
+## 🌱 40 rising
 
-> Projects updated recently that have not yet reached the star threshold, sorted by the latest update.
+> Updated in the last two months, and still under the star threshold. Newest first.
 
 1. [openhab/openhab-garmin](https://github.com/openhab/openhab-garmin) — Garmin widget for an openHAB home-automation server ☆`7`
 1. [zetxek/garmin-qr](https://github.com/zetxek/garmin-qr) — Garmin IQ application to generate and display QR codes and barcodes ☆`8`
