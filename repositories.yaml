@@ -693,6 +693,7 @@ categories:
           - url: https://github.com/markwmuller/PregnancyWidget
           - url: https://github.com/mayaleh/Maya.CryptoFiatPrice
           - url: https://github.com/METIQ-Solutions/evccg
+            description: "Garmin widget for evcc solar-powered EV charging"
           - url: https://github.com/mettyw/activity_view
           - url: https://github.com/miharekar/ForecastLine
           - url: https://github.com/mikeller/garmin-christchurch-bus-widget
