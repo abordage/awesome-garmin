@@ -265,58 +265,58 @@ Connect IQ apps, Garmin Connect API, FIT tools, maps, and integrations. This awe
 
 ## 50 recently updated
 
-> Projects updated recently that have not yet reached the star threshold, sorted by GitHub stars.
+> Projects updated recently that have not yet reached the star threshold, sorted by the latest update.
 
-1. [sam-dumont/GarminGoProDatafield](https://github.com/sam-dumont/GarminGoProDatafield) ☆`15`
-1. [arsfabula/Insta360-Remote-CIQ](https://github.com/arsfabula/Insta360-Remote-CIQ) — Garmin Connect IQ Remote for Insta360 Cameras ☆`14`
+1. [openhab/openhab-garmin](https://github.com/openhab/openhab-garmin) — Garmin widget for an openHAB home-automation server ☆`7`
+1. [zetxek/garmin-qr](https://github.com/zetxek/garmin-qr) — Garmin IQ application to generate and display QR codes and barcodes ☆`8`
 1. [ad220/gopro-remote-connectiq](https://github.com/ad220/gopro-remote-connectiq) — Garmin ConnectIQ widget to control a GoPro from your wrist ☆`12`
 1. [buessow/garmin](https://github.com/buessow/garmin) — Glucose displays for Garmin devices. ☆`12`
+1. [mikeller/garmin-christchurch-bus-widget](https://github.com/mikeller/garmin-christchurch-bus-widget) — Bus departures in Christchurch on a Garmin watch ☆`6`
+1. [arsfabula/Insta360-Remote-CIQ](https://github.com/arsfabula/Insta360-Remote-CIQ) — Garmin Connect IQ Remote for Insta360 Cameras ☆`14`
 1. [felwal/avganar](https://github.com/felwal/avganar) — Public transport watch app for Stockholm, Sweden ☆`12`
-1. [OpenGIS/inreach-mapshare](https://github.com/OpenGIS/inreach-mapshare) — Display Your Live inReach MapShare Data on Your WordPress Site ☆`12`
-1. [matco/connectiq-tester](https://github.com/matco/connectiq-tester) ☆`11`
-1. [tcgoetz/GarminDbPlugins](https://github.com/tcgoetz/GarminDbPlugins) ☆`11`
-1. [lindig/fit](https://github.com/lindig/fit) — Minimal OCaml library to parse Garmin FIT files ☆`11`
-1. [okdar/smartarcsactive](https://github.com/okdar/smartarcsactive) — SmartArcs Active - Garmin WatchFace ☆`11`
-1. [xtruan/WorkoutTimer](https://github.com/xtruan/WorkoutTimer) — Workout Timer app for Garmin ConnectIQ ☆`10`
-1. [xtruan/GpsPosition](https://github.com/xtruan/GpsPosition) — GPS Position app for Garmin ConnectIQ ☆`10`
-1. [floriangeigl/Meditate](https://github.com/floriangeigl/Meditate) — Free Meditation & Breathwork app for Garmin watches. Published in Garmin Connect IQ store at https://apps.garmin.com/apps/e6f3f3d2-3ea6-4ec1-81a5-977c708eb75b - reincarnation of the app developed by vtrifonov and dliedke. ☆`9`
-1. [werkkrew/ciq-hiit-tracker](https://github.com/werkkrew/ciq-hiit-tracker) — Orange Theory Fitness - Garmin Connect IQ App ☆`9`
-1. [anup-shesh/garmin-local-mcp](https://github.com/anup-shesh/garmin-local-mcp) — Local Garmin data warehouse and MCP server for Connect ☆`9`
-1. [zetxek/garmin-qr](https://github.com/zetxek/garmin-qr) — Garmin IQ application to generate and display QR codes and barcodes ☆`8`
-1. [okdar/smartarcs](https://github.com/okdar/smartarcs) — SmartArcs Origin - Garmin WatchFace ☆`8`
-1. [openhab/openhab-garmin](https://github.com/openhab/openhab-garmin) — A Garmin widget that connects your wearable or cycling computer to openHAB, an open-source home automation platform. ☆`7`
-1. [blkfribourg/WheelDash](https://github.com/blkfribourg/WheelDash) ☆`7`
-1. [pyrob2142/FastingWidget](https://github.com/pyrob2142/FastingWidget) — A simple fasting tracker for Garmin devices ☆`7`
-1. [METIQ-Solutions/evcc-garmin](https://github.com/METIQ-Solutions/evcc-garmin) — A Garmin widget that displays data from evcc, an open-source software solution for solar-powered EV charging. ☆`7`
-1. [douglasr/msgpack-monkeyc](https://github.com/douglasr/msgpack-monkeyc) — MessagePack for MonkeyC (Connect IQ) / msgpack.org[Monkey C] ☆`7`
-1. [douglasr/ciqtools-number-picker](https://github.com/douglasr/ciqtools-number-picker) ☆`7`
-1. [mikeller/garmin-christchurch-bus-widget](https://github.com/mikeller/garmin-christchurch-bus-widget) — Widget to Show Departures of Buses in Christchurch on Garmin Smart Watches ☆`6`
+1. [bombsimon/monkey-c-rs](https://github.com/bombsimon/monkey-c-rs) — Monkey C linter, formatter, and coverage tools ☆`5`
+1. [matco/connectiq-tester](https://github.com/matco/connectiq-tester) — Docker image with the Connect IQ SDK and simulator for tests ☆`11`
 1. [pedrorijo91/garmin-padel](https://github.com/pedrorijo91/garmin-padel) — padel scorekeeper garmin watch app ☆`6`
-1. [dev-whiterice/Essence](https://github.com/dev-whiterice/Essence) — Essence, a watchface for Garmin devices ☆`6`
-1. [DavidBaddeley/connectiq-tester](https://github.com/DavidBaddeley/connectiq-tester) ☆`6`
-1. [bderusha/GarminIQ-CoachCompanion](https://github.com/bderusha/GarminIQ-CoachCompanion) — GarminIQ Data Field app for using the RunWalkRun method with coached workouts. ☆`6`
-1. [bombsimon/monkey-c-rs](https://github.com/bombsimon/monkey-c-rs) — `rafiki` - Monkey C linter, formatter and coverage together with your best toolbox to work with Monkey C code ☆`5`
 1. [garmin/fit-c-sdk](https://github.com/garmin/fit-c-sdk) — Official Garmin FIT C SDK ☆`5`
-1. [hacdias/flowfit](https://github.com/hacdias/flowfit) — Turn FIT files generated by Bosch's eBike Flow app into a valid FIT file that can be imported by other tools. ☆`5`
-1. [ChelsWin/Tasker-Trigger](https://github.com/ChelsWin/Tasker-Trigger) — Trigger Tasker tasks from your Garmin watch using the AutoNotification plugin on Android. ☆`5`
-1. [xtruan/MorseCode](https://github.com/xtruan/MorseCode) — Morse Code app for Garmin ConnectIQ ☆`5`
-1. [evilwombat/HikeFieldv2](https://github.com/evilwombat/HikeFieldv2) — Hiking data field for Garmin smartwatches. Originally forked from tymmej/HikeField ☆`4`
-1. [bombsimon/garmin-monkeyc.nvim](https://github.com/bombsimon/garmin-monkeyc.nvim) — Neovim port of the official Monkey C VS Code extension, with LSP support ☆`4`
-1. [okdar/smartarcstrip](https://github.com/okdar/smartarcstrip) — SmartArcs Trip - Garmin WatchFace ☆`4`
 1. [garmin/fit-cpp-sdk](https://github.com/garmin/fit-cpp-sdk) — Official Garmin FIT C++ SDK ☆`3`
-1. [mikeller/garmin-divesite-weather-widget](https://github.com/mikeller/garmin-divesite-weather-widget) — Show the Weather Conditions at Your Favourite Divesite as a Widget on Your Garmin Watch. ☆`3`
-1. [blackshadev/garmin-connectiq-release-action](https://github.com/blackshadev/garmin-connectiq-release-action) — Github action to release / export a garmin ConnectIQ app ☆`3`
-1. [axl13/PowerAdjuster](https://github.com/axl13/PowerAdjuster) — Connect IQ Power Adjuster ☆`3`
-1. [Gumix/garmin-watchfaces](https://github.com/Gumix/garmin-watchfaces) — Garmin Watch Faces ☆`3`
-1. [grafstrom/ORun](https://github.com/grafstrom/ORun) — Orienteering data-field for Garmin Connect IQ devices ☆`3`
-1. [xtruan/TempoBPM](https://github.com/xtruan/TempoBPM) — Tempo BPM app for Garmin ConnectIQ ☆`3`
-1. [11samype/CIQBitcoinWidget](https://github.com/11samype/CIQBitcoinWidget) — A Connect IQ widget that gets the current Bitcoin price. ☆`3`
-1. [okdar/lostandfound](https://github.com/okdar/lostandfound) — Lost and Found Garmin widget ☆`3`
-1. [rexMingla/low-battery-mode](https://github.com/rexMingla/low-battery-mode) — Garmin Connect Monkey C Application for lower battery mode in longer activities (ie. Ironman) ☆`2`
-1. [douglasr/ciqtools-cryptography](https://github.com/douglasr/ciqtools-cryptography) ☆`2`
+1. [tcgoetz/GarminDbPlugins](https://github.com/tcgoetz/GarminDbPlugins) — Plugins that import extra FIT fields into GarminDB ☆`11`
+1. [semolina-solutions/rules_ciq](https://github.com/semolina-solutions/rules_ciq) — A Bazel module for Garmin Connect IQ development tools. ☆`0`
+1. [floriangeigl/Meditate](https://github.com/floriangeigl/Meditate) — Free Meditation & Breathwork app for Garmin watches ☆`9`
 1. [phil-mitchell/garmin-curling](https://github.com/phil-mitchell/garmin-curling) — A curling activity tracker for Garmin devices ☆`1`
+1. [mikeller/garmin-divesite-weather-widget](https://github.com/mikeller/garmin-divesite-weather-widget) — Dive-site weather on a Garmin watch ☆`3`
+1. [rexMingla/low-battery-mode](https://github.com/rexMingla/low-battery-mode) — Garmin Connect Monkey C Application for lower battery mode ☆`2`
+1. [hacdias/flowfit](https://github.com/hacdias/flowfit) — Turn FIT files generated by Bosch's eBike Flow app into a valid FIT file ☆`5`
+1. [landnavapp/landnavapp](https://github.com/landnavapp/landnavapp) — Homepage ☆`0`
+1. [sam-dumont/GarminGoProDatafield](https://github.com/sam-dumont/GarminGoProDatafield) — Control a GoPro from a supported Garmin device ☆`15`
+1. [werkkrew/ciq-hiit-tracker](https://github.com/werkkrew/ciq-hiit-tracker) — Orange Theory Fitness - Garmin Connect IQ App ☆`9`
+1. [blackshadev/garmin-connectiq-release-action](https://github.com/blackshadev/garmin-connectiq-release-action) — GitHub Action that exports a Connect IQ app ☆`3`
+1. [blkfribourg/WheelDash](https://github.com/blkfribourg/WheelDash) — Garmin app for Begode, Leaperkim, Kingsong, InMotion ☆`7`
+1. [axl13/PowerAdjuster](https://github.com/axl13/PowerAdjuster) — Connect IQ Power Adjuster ☆`3`
+1. [pyrob2142/FastingWidget](https://github.com/pyrob2142/FastingWidget) — A simple fasting tracker for Garmin devices ☆`7`
+1. [dev-whiterice/Essence](https://github.com/dev-whiterice/Essence) — Essence, a watchface for Garmin devices ☆`6`
+1. [Karth01/Garmin-TaskerRemote](https://github.com/Karth01/Garmin-TaskerRemote) — Garmin glance that runs actions on an Android phone ☆`0`
+1. [evilwombat/HikeFieldv2](https://github.com/evilwombat/HikeFieldv2) — Hiking data field for Garmin smartwatches ☆`4`
+1. [Gumix/garmin-watchfaces](https://github.com/Gumix/garmin-watchfaces) — Garmin Watch Faces ☆`3`
+1. [DavidBaddeley/connectiq-tester](https://github.com/DavidBaddeley/connectiq-tester) — Docker image that builds a Connect IQ app ☆`6`
 1. [flocsy/BodyBatteryDF](https://github.com/flocsy/BodyBatteryDF) — Body Battery data field for Garmin watches ☆`1`
-1. [serroba/mace-clubs](https://github.com/serroba/mace-clubs) — Garmin Connect IQ workout app for steel mace and club training (Instinct 3 Solar) ☆`1`
+1. [bderusha/GarminIQ-CoachCompanion](https://github.com/bderusha/GarminIQ-CoachCompanion) — GarminIQ Data Field app for using the RunWalkRun method ☆`6`
+1. [ChelsWin/Tasker-Trigger](https://github.com/ChelsWin/Tasker-Trigger) — Trigger Tasker tasks from your Garmin watch ☆`5`
+1. [METIQ-Solutions/evcc-garmin](https://github.com/METIQ-Solutions/evcc-garmin) — Garmin widget for evcc solar-powered EV charging ☆`7`
+1. [anup-shesh/garmin-local-mcp](https://github.com/anup-shesh/garmin-local-mcp) — Local Garmin data warehouse and MCP server for Connect ☆`9`
+1. [serroba/mace-clubs](https://github.com/serroba/mace-clubs) — Connect IQ workouts for steel mace and club training ☆`1`
+1. [suskozaver/gkg](https://github.com/suskozaver/gkg) — Google Keep lists on the watch, via a self-hosted server ☆`1`
+1. [grafstrom/ORun](https://github.com/grafstrom/ORun) — Orienteering data-field for Garmin Connect IQ devices ☆`3`
+1. [lindig/fit](https://github.com/lindig/fit) — Minimal OCaml library to parse Garmin FIT files ☆`11`
+1. [bombsimon/garmin-monkeyc.nvim](https://github.com/bombsimon/garmin-monkeyc.nvim) — Neovim port of the official Monkey C VS Code extension ☆`4`
+1. [xtruan/WorkoutTimer](https://github.com/xtruan/WorkoutTimer) — Workout Timer app for Garmin ConnectIQ ☆`10`
+1. [xtruan/TempoBPM](https://github.com/xtruan/TempoBPM) — Tempo BPM app for Garmin ConnectIQ ☆`3`
+1. [xtruan/MorseCode](https://github.com/xtruan/MorseCode) — Morse Code app for Garmin ConnectIQ ☆`5`
+1. [xtruan/GpsPosition](https://github.com/xtruan/GpsPosition) — GPS Position app for Garmin ConnectIQ ☆`10`
+1. [Marios007/WoP](https://github.com/Marios007/WoP) — Garmin widget for the current pregnancy week and trimester ☆`0`
+1. [11samype/CIQBitcoinWidget](https://github.com/11samype/CIQBitcoinWidget) — A Connect IQ widget that gets the current Bitcoin price. ☆`3`
+1. [OpenGIS/inreach-mapshare](https://github.com/OpenGIS/inreach-mapshare) — Display Your Live inReach MapShare Data on Your WordPress Site ☆`12`
+1. [douglasr/msgpack-monkeyc](https://github.com/douglasr/msgpack-monkeyc) — MessagePack for MonkeyC (Connect IQ) / msgpack.org[Monkey C] ☆`7`
+1. [douglasr/ciqtools-number-picker](https://github.com/douglasr/ciqtools-number-picker) — Connect IQ barrel for a number-picker control ☆`7`
 
 
 
