@@ -76,6 +76,7 @@ categories:
           - url: https://github.com/ebolefeysot/CIQ_PcvVo2max
           - url: https://github.com/ebottacin/OmniBikeField
           - url: https://github.com/evilwombat/HikeFieldv2
+            description: "Hiking data field for Garmin smartwatches"
           - url: https://github.com/evilwombat/HikeFieldv2-forked
           - url: https://github.com/fabiobaltieri/ciq-battery-field
           - url: https://github.com/fabiobaltieri/ciq-nrf-blinky
@@ -136,6 +137,7 @@ categories:
           - url: https://github.com/roelofk/HeartRateRunner
           - url: https://github.com/sam-dumont/connectiq-workout-datafields
           - url: https://github.com/sam-dumont/GarminGoProDatafield
+            description: "Control a GoPro from a supported Garmin device"
           - url: https://github.com/sam-dumont/RaceWithPower
           - url: https://github.com/sam-dumont/RunPowerWorkoutNG
           - url: https://github.com/seajay/ColourHR
@@ -200,8 +202,10 @@ categories:
           - url: https://github.com/bostonrwalker/navutils
           - url: https://github.com/britiger/CriticalMapsAPIBarrel
           - url: https://github.com/douglasr/ciqtools-cryptography
+            description: "Connect IQ barrel that wraps the built-in cryptography"
           - url: https://github.com/douglasr/ciqtools-graphing
           - url: https://github.com/douglasr/ciqtools-number-picker
+            description: "Connect IQ barrel for a number-picker control"
           - url: https://github.com/douglasr/msgpack-monkeyc
           - url: https://github.com/hurenkam/WidgetBarrel
           - url: https://github.com/Likenttt/garmin-ciq-page-indicator
@@ -229,8 +233,10 @@ categories:
           - url: https://github.com/alexphredorg/ConnectIqSailingApp
           - url: https://github.com/andan67/wormnav
           - url: https://github.com/bderusha/GarminIQ-CoachCompanion
+            description: "GarminIQ Data Field app for using the RunWalkRun method"
           - url: https://github.com/blackshadev/wayfinder
           - url: https://github.com/blkfribourg/WheelDash
+            description: "Garmin app for Begode, Leaperkim, Kingsong, InMotion"
           - url: https://github.com/Byeongcheol-Kim/Meditate
           - url: https://github.com/calugj/anysport
           - url: https://github.com/cedric-dufour/connectiq-app-glidersk
@@ -254,6 +260,7 @@ categories:
           - url: https://github.com/eriklupander/Fenix3GolfDistance
           - url: https://github.com/flori/S2C
           - url: https://github.com/floriangeigl/Meditate
+            description: "Free Meditation & Breathwork app for Garmin watches"
           - url: https://github.com/fmercado/telemeter
           - url: https://github.com/gaetanmarti/glidator
           - url: https://github.com/gatkin/commute-tracker
@@ -284,12 +291,14 @@ categories:
           - url: https://github.com/pukao/GarminSailing
           - url: https://github.com/quickdk/uPaddle
           - url: https://github.com/rexMingla/low-battery-mode
+            description: "Garmin Connect Monkey C Application for lower battery mode"
           - url: https://github.com/rgrellmann/connectiq-bergsteigen-app
           - url: https://github.com/rjmccann101/MBO
           - url: https://github.com/rxkaminski/Garmin-SportTimerHR
           - url: https://github.com/sarahemm/DerbyLaps
           - url: https://github.com/sdgriggs/GarminDiscGolf
           - url: https://github.com/serroba/mace-clubs
+            description: "Connect IQ workouts for steel mace and club training"
           - url: https://github.com/sharkbait-au/HRV_iq
           - url: https://github.com/shprung/garminIQ_HRonly
           - url: https://github.com/spikyjt/SailingTimer
@@ -637,6 +646,7 @@ categories:
           - url: https://github.com/cedric-dufour/connectiq-widget-pilotsrss
           - url: https://github.com/cedric-dufour/connectiq-widget-totp
           - url: https://github.com/ChelsWin/Tasker-Trigger
+            description: "Trigger Tasker tasks from your Garmin watch"
           - url: https://github.com/chemikadze/garmin-authenticator
           - url: https://github.com/dabastynator/GarminSmartHome
           - url: https://github.com/danielsiwiec/garmin-connect-seed
@@ -670,6 +680,7 @@ categories:
           - url: https://github.com/JuliensLab/Garmin-BatteryAnalyzer
           - url: https://github.com/jurask/authentificator
           - url: https://github.com/Karth01/Garmin-TaskerRemote
+            description: "Garmin glance that runs actions on an Android phone"
           - url: https://github.com/Likenttt/DogecoinToTheMoon
           - url: https://github.com/lkjh654/HabitTree
           - url: https://github.com/maca88/BikeLightsControl
@@ -678,17 +689,21 @@ categories:
           - url: https://github.com/macherel/Connect-IQ-QR-Code-Viewer
           - url: https://github.com/madskonradsen/garmin-iq-shortsweather
           - url: https://github.com/Marios007/WoP
+            description: "Garmin widget for the current pregnancy week and trimester"
           - url: https://github.com/markwmuller/PregnancyWidget
           - url: https://github.com/mayaleh/Maya.CryptoFiatPrice
           - url: https://github.com/METIQ-Solutions/evccg
           - url: https://github.com/mettyw/activity_view
           - url: https://github.com/miharekar/ForecastLine
           - url: https://github.com/mikeller/garmin-christchurch-bus-widget
+            description: "Bus departures in Christchurch on a Garmin watch"
           - url: https://github.com/mikeller/garmin-divesite-weather-widget
+            description: "Dive-site weather on a Garmin watch"
           - url: https://github.com/mriscott/GarminRings
           - url: https://github.com/natabat/FertiliQ
           - url: https://github.com/okdar/lostandfound
           - url: https://github.com/openhab/openhab-garmin
+            description: "Garmin widget for an openHAB home-automation server"
           - url: https://github.com/pedlarstudios/WordOfTheDay
           - url: https://github.com/PlanetTeamSpeakk/UC-Widget
           - url: https://github.com/pyrob2142/FastingWidget
@@ -740,7 +755,9 @@ categories:
           - url: https://github.com/tcgoetz/GarminDB
             description: Parse Connect, FIT, Fitbit, and MS Health into SQLite
           - url: https://github.com/tcgoetz/GarminDbPlugins
+            description: "Plugins that import extra FIT fields into GarminDB"
           - url: https://github.com/tinymetrix/client
+            description: "Lightweight analytics & crash/error logging barrel"
       - name: FIT
         repos:
           - url: https://github.com/dtcooper/python-fitparse
@@ -755,6 +772,7 @@ categories:
           - url: https://github.com/garmin/fit-sdk-tools
           - url: https://github.com/garmin/fit-swift-sdk
           - url: https://github.com/hacdias/flowfit
+            description: "Turn FIT files generated by Bosch's eBike Flow app into a valid FIT file"
           - url: https://github.com/jat255/Fit-File-Faker
             description: Edit and upload virtual-cycling FIT files to Connect
           - url: https://github.com/jmackie/garminfit
@@ -808,6 +826,7 @@ categories:
       - name: Editors & LSP
         repos:
           - url: https://github.com/bombsimon/garmin-monkeyc.nvim
+            description: "Neovim port of the official Monkey C VS Code extension"
           - url: https://github.com/bombsimon/monkeyc-optimizer.nvim
           - url: https://github.com/bombsimon/tree-sitter-monkey-c
           - url: https://github.com/cyberang3l/garmin-monkey-c-neovim-language-server
@@ -822,8 +841,10 @@ categories:
           - url: https://github.com/Artaud/CIQ-Comm-failure-sample
           - url: https://github.com/blackdogit/connectiq-monkeyc
           - url: https://github.com/blackshadev/garmin-connectiq-release-action
+            description: "GitHub Action that exports a Connect IQ app"
           - url: https://github.com/bombsimon/garmin-screenshot
           - url: https://github.com/bombsimon/monkey-c-rs
+            description: "Monkey C linter, formatter, and coverage tools"
           - url: https://github.com/cedric-dufour/connectiq-app-rawlogger
           - url: https://github.com/cjsmith/react-native-connect-iq-mobile-sdk
           - url: https://github.com/creacominc/connectiq-PowerFieldTests
@@ -831,6 +852,7 @@ categories:
           - url: https://github.com/cyberang3l/GarminMonkeyCBoilerPlate
           - url: https://github.com/cyberang3l/GarminSettingsFileParser
           - url: https://github.com/DavidBaddeley/connectiq-tester
+            description: "Docker image that builds a Connect IQ app"
           - url: https://github.com/douglasr/connectiq-samples
           - url: https://github.com/ekutter/CIQTest
           - url: https://github.com/flocsy/garmin-dev-tools
@@ -852,6 +874,7 @@ categories:
           - url: https://github.com/markw65/monkeyc-optimizer
           - url: https://github.com/matco/action-connectiq-tester
           - url: https://github.com/matco/connectiq-tester
+            description: "Docker image with the Connect IQ SDK and simulator for tests"
           - url: https://github.com/pcolby/connectiq-sdk-manager
           - url: https://github.com/Peterdedecker/connectiq
           - url: https://github.com/pzl/ciqdb
@@ -895,6 +918,7 @@ categories:
           - url: https://github.com/gloscherrybomb/TPV2Garmin
           - url: https://github.com/jamiemitchellconsultants/MapToGarmin
           - url: https://github.com/jamiemitchellconsultants/RouteTimer
+            description: "Predicts cycling route times from your own power"
           - url: https://github.com/mgifos/quick-plan
           - url: https://github.com/Nick-W/InreachIPC
           - url: https://github.com/OpenGIS/Inreach-Mapshare
