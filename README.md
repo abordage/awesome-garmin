@@ -263,7 +263,7 @@ Connect IQ apps, Garmin Connect API, FIT tools, maps, and integrations. This awe
 
 ---
 
-## 50 recently updated
+## 40 recently updated
 
 > Projects updated recently that have not yet reached the star threshold, sorted by the latest update.
 
@@ -307,16 +307,6 @@ Connect IQ apps, Garmin Connect API, FIT tools, maps, and integrations. This awe
 1. [suskozaver/gkg](https://github.com/suskozaver/gkg) — Google Keep lists on the watch, via a self-hosted server ☆`1`
 1. [grafstrom/ORun](https://github.com/grafstrom/ORun) — Orienteering data-field for Garmin Connect IQ devices ☆`3`
 1. [lindig/fit](https://github.com/lindig/fit) — Minimal OCaml library to parse Garmin FIT files ☆`11`
-1. [bombsimon/garmin-monkeyc.nvim](https://github.com/bombsimon/garmin-monkeyc.nvim) — Neovim port of the official Monkey C VS Code extension ☆`4`
-1. [xtruan/WorkoutTimer](https://github.com/xtruan/WorkoutTimer) — Workout Timer app for Garmin ConnectIQ ☆`10`
-1. [xtruan/TempoBPM](https://github.com/xtruan/TempoBPM) — Tempo BPM app for Garmin ConnectIQ ☆`3`
-1. [xtruan/MorseCode](https://github.com/xtruan/MorseCode) — Morse Code app for Garmin ConnectIQ ☆`5`
-1. [xtruan/GpsPosition](https://github.com/xtruan/GpsPosition) — GPS Position app for Garmin ConnectIQ ☆`10`
-1. [Marios007/WoP](https://github.com/Marios007/WoP) — Garmin widget for the current pregnancy week and trimester ☆`0`
-1. [11samype/CIQBitcoinWidget](https://github.com/11samype/CIQBitcoinWidget) — A Connect IQ widget that gets the current Bitcoin price. ☆`3`
-1. [OpenGIS/inreach-mapshare](https://github.com/OpenGIS/inreach-mapshare) — Display Your Live inReach MapShare Data on Your WordPress Site ☆`12`
-1. [douglasr/msgpack-monkeyc](https://github.com/douglasr/msgpack-monkeyc) — MessagePack for MonkeyC (Connect IQ) / msgpack.org[Monkey C] ☆`7`
-1. [douglasr/ciqtools-number-picker](https://github.com/douglasr/ciqtools-number-picker) — Connect IQ barrel for a number-picker control ☆`7`
 
 
 
