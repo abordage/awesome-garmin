@@ -3,7 +3,7 @@
 ![Awesome](https://raw.githubusercontent.com/abordage/schemas/main/badges/awesome.svg)
 [![Last update](https://img.shields.io/github/last-commit/abordage/awesome-garmin?label=last%20update)](README.md)
 ![Repositories](https://img.shields.io/badge/repositories-118-06b6d4)
-![Total Stars](https://img.shields.io/badge/total%20stars-33,200-gold)
+![Total Stars](https://img.shields.io/badge/total%20stars-33,226-gold)
 [![License](https://img.shields.io/github/license/abordage/awesome-garmin)](LICENSE)
 
 **Automated. Curated. Ranked.**
@@ -39,7 +39,7 @@ Connect IQ apps, Garmin Connect API, FIT tools, maps, and integrations. This awe
 
 ## API Clients
 
-- [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) — Python 3 wrapper to read and write Garmin Connect ☆`3,284`
+- [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) — Python 3 wrapper to read and write Garmin Connect ☆`3,287`
 - [Pythe1337N/garmin-connect](https://github.com/Pythe1337N/garmin-connect) — JavaScript client to get or set Garmin Connect data ☆`197`
 - [mkuthan/garmin-workouts](https://github.com/mkuthan/garmin-workouts) — Command line tool for managing Garmin workouts. ☆`128`
 - [sealbro/dotnet.garmin.connect](https://github.com/sealbro/dotnet.garmin.connect) — Unofficial garmin connect client ☆`46`
@@ -55,8 +55,8 @@ Connect IQ apps, Garmin Connect API, FIT tools, maps, and integrations. This awe
 - [gimportexportdevs/gimporter](https://github.com/gimportexportdevs/gimporter) — Garmin Connect App to import GPX and FIT files ☆`32`
 - [gimportexportdevs/gexporter](https://github.com/gimportexportdevs/gexporter) — Android App to export GPX and FIT to garmin devices ☆`31`
 - [pauljohnston2025/breadcrumb-mobile](https://github.com/pauljohnston2025/breadcrumb-mobile) — Garmin companion app for breadcrumb ☆`21`
+- [garmin/connectiq-companion-app-example-ios](https://github.com/garmin/connectiq-companion-app-example-ios) — Example iOS app using the Companion App SDK ☆`34`
 - [grigorye/Handsfree](https://github.com/grigorye/Handsfree) — Make your phone calls from Garmin watch ☆`16`
-- [garmin/connectiq-companion-app-example-ios](https://github.com/garmin/connectiq-companion-app-example-ios) — Example iOS app using the Companion App SDK ☆`33`
 - [MatyasKriz/ios-connect-iq-comms](https://github.com/MatyasKriz/ios-connect-iq-comms) — Two-way iOS companion and Connect IQ sample ☆`17`
 ## Connect IQ
 
@@ -73,7 +73,7 @@ Connect IQ apps, Garmin Connect API, FIT tools, maps, and integrations. This awe
 - [Gualor/garmin-gotchi](https://github.com/Gualor/garmin-gotchi) — Tamagotchi Gen 1 Emulator for Garmin Instinct 3. ☆`17`
 ### Smart Home
 
-- [house-of-abbey/GarminHomeAssistant](https://github.com/house-of-abbey/GarminHomeAssistant) — Home Assistant dashboard on a Garmin watch ☆`380`
+- [house-of-abbey/GarminHomeAssistant](https://github.com/house-of-abbey/GarminHomeAssistant) — Home Assistant dashboard on a Garmin watch ☆`381`
 ### Sports & Workouts
 
 - [kartoone/mybiketraffic](https://github.com/kartoone/mybiketraffic) — Varia radar vehicle counting on Connect IQ ☆`66`
@@ -109,7 +109,7 @@ Connect IQ apps, Garmin Connect API, FIT tools, maps, and integrations. This awe
 ### Widgets
 
 - [hatl/hasscontrol](https://github.com/hatl/hasscontrol) — Simple garmin widget to control home assistant scenes ☆`268`
-- [macherel/Barcode-Wallet](https://github.com/macherel/Barcode-Wallet) — Store and show barcodes and QR codes on the watch ☆`75`
+- [macherel/Barcode-Wallet](https://github.com/macherel/Barcode-Wallet) — Store and show barcodes and QR codes on the watch ☆`76`
 - [haraldh/SunCalc](https://github.com/haraldh/SunCalc) — Connect IQ widget for sunrise, sunset, dawn, dusk and blue hour ☆`40`
 - [uaraven/otpauth-ciq](https://github.com/uaraven/otpauth-ciq) — ConnectIQ widget for generating TOTP authentication codes. ☆`20`
 - [individual-it/BatteryGuesstimate](https://github.com/individual-it/BatteryGuesstimate) — Battery estimation for Garmin sportwatches ☆`16`
@@ -120,9 +120,9 @@ Connect IQ apps, Garmin Connect API, FIT tools, maps, and integrations. This awe
 
 ### Export & Backup
 
-- [tcgoetz/GarminDB](https://github.com/tcgoetz/GarminDB) — Parse Connect, FIT, Fitbit, and MS Health into SQLite ☆`3,368`
+- [tcgoetz/GarminDB](https://github.com/tcgoetz/GarminDB) — Parse Connect, FIT, Fitbit, and MS Health into SQLite ☆`3,369`
 - [pe-st/garmin-connect-export](https://github.com/pe-st/garmin-connect-export) — Download Garmin Connect stats and GPX tracks ☆`498`
-- [diegoscarabelli/garmin-health-data](https://github.com/diegoscarabelli/garmin-health-data) — CLI to download Connect data into local SQLite ☆`134`
+- [diegoscarabelli/garmin-health-data](https://github.com/diegoscarabelli/garmin-health-data) — CLI to download Connect data into local SQLite ☆`135`
 ### FIT
 
 - [dtcooper/python-fitparse](https://github.com/dtcooper/python-fitparse) — Python library to parse ANT/Garmin .FIT files ☆`826`
@@ -147,9 +147,9 @@ Connect IQ apps, Garmin Connect API, FIT tools, maps, and integrations. This awe
 - [ligfietser/mkgmap-style-sheets](https://github.com/ligfietser/mkgmap-style-sheets) — mkgmap style sheets for OSM Garmin vector maps ☆`53`
 ### Visualization
 
-- [yihong0618/running_page](https://github.com/yihong0618/running_page) — Make your own running home page ☆`4,572`
-- [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) — Fetch Connect health data into InfluxDB and Grafana ☆`3,563`
-- [tumic0/GPXSee](https://github.com/tumic0/GPXSee) — GPS log viewer and analyzer for GPX, TCX, KML, and FIT ☆`1,267`
+- [yihong0618/running_page](https://github.com/yihong0618/running_page) — Make your own running home page ☆`4,575`
+- [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) — Fetch Connect health data into InfluxDB and Grafana ☆`3,564`
+- [tumic0/GPXSee](https://github.com/tumic0/GPXSee) — GPS log viewer and analyzer for GPX, TCX, KML, and FIT ☆`1,270`
 - [alex-hhh/ActivityLog2](https://github.com/alex-hhh/ActivityLog2) — Analyze data from swim, bike and run activities ☆`369`
 - [peregin/gps-overlay-on-video](https://github.com/peregin/gps-overlay-on-video) — Telemetry (GPS) data overlay on videos ☆`363`
 - [aspain/git-sweaty](https://github.com/aspain/git-sweaty) — Strava and Garmin activities as GitHub-style graphs ☆`272`
@@ -177,7 +177,7 @@ Connect IQ apps, Garmin Connect API, FIT tools, maps, and integrations. This awe
 - [jaroslawhartman/withings-sync](https://github.com/jaroslawhartman/withings-sync) — Synchronisation of Withings weight ☆`705`
 - [RobertWojtowicz/export2garmin](https://github.com/RobertWojtowicz/export2garmin) — Export Mi | Xiaomi scale & Omron data to Garmin Connect ☆`276`
 - [lswiderski/mi-scale-exporter](https://github.com/lswiderski/mi-scale-exporter) — Export Mi Scale body composition to Garmin Connect ☆`242`
-- [KristianP26/ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) — BLE scale bridge to Connect, Strava, MQTT, and files ☆`230`
+- [KristianP26/ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) — BLE scale bridge to Connect, Strava, MQTT, and files ☆`231`
 - [AlexxIT/SmartScaleConnect](https://github.com/AlexxIT/SmartScaleConnect) — Sync smart scale data between ecosystems ☆`170`
 - [sodelalbert/Withings2Garmin](https://github.com/sodelalbert/Withings2Garmin) — Sync Withings scale weight to Garmin Connect ☆`116`
 ### Smart Home
@@ -185,16 +185,16 @@ Connect IQ apps, Garmin Connect API, FIT tools, maps, and integrations. This awe
 - [cyberjunky/home-assistant-garmin_connect](https://github.com/cyberjunky/home-assistant-garmin_connect) — Garmin Connect data in Home Assistant ☆`591`
 ### Sync
 
-- [endurain-project/endurain](https://github.com/endurain-project/endurain) — Self-hosted fitness tracker with full data control ☆`2,410`
+- [endurain-project/endurain](https://github.com/endurain-project/endurain) — Self-hosted fitness tracker with full data control ☆`2,415`
 - [philosowaffle/peloton-to-garmin](https://github.com/philosowaffle/peloton-to-garmin) — Convert Peloton workouts to FIT and upload ☆`360`
-- [drkostas/hevy2garmin](https://github.com/drkostas/hevy2garmin) — Sync Hevy workouts, sets, and HR to Garmin Connect ☆`190`
+- [drkostas/hevy2garmin](https://github.com/drkostas/hevy2garmin) — Sync Hevy workouts, sets, and HR to Garmin Connect ☆`191`
 - [mgifos/quick-plan](https://github.com/mgifos/quick-plan) — Defines and schedules Garmin workouts ☆`157`
 - [simonepri/fitbit2garmin](https://github.com/simonepri/fitbit2garmin) — Export Fitbit body, activity, and GPS for Connect ☆`112`
 - [alex-hhh/PiFitSync](https://github.com/alex-hhh/PiFitSync) — Sync FIT files from Garmin watch to a Raspberry PI ☆`16`
 - [fulippo/share-your-garmin-workout](https://github.com/fulippo/share-your-garmin-workout) — Chrome extension to share Garmin Connect workouts ☆`27`
 ## MCP Servers
 
-- [Taxuspt/garmin_mcp](https://github.com/Taxuspt/garmin_mcp) — MCP server to access Garmin data ☆`1,541`
+- [Taxuspt/garmin_mcp](https://github.com/Taxuspt/garmin_mcp) — MCP server to access Garmin data ☆`1,545`
 - [Nicolasvegam/garmin-connect-mcp](https://github.com/Nicolasvegam/garmin-connect-mcp) — MCP with 61 Garmin Connect health and fitness tools ☆`193`
 - [nrvim/garmin-givemydata](https://github.com/nrvim/garmin-givemydata) — Local SQLite archive of Connect data with MCP ☆`173`
 - [eddmann/garmin-connect-mcp](https://github.com/eddmann/garmin-connect-mcp) — MCP for Connect activities, health, sleep, and training ☆`68`
@@ -209,20 +209,20 @@ Connect IQ apps, Garmin Connect API, FIT tools, maps, and integrations. This awe
 
 > The most starred projects in this list, sorted by GitHub stars.
 
-1. [yihong0618/running_page](https://github.com/yihong0618/running_page) — Make your own running home page ☆`4,572`
-1. [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) — Fetch Connect health data into InfluxDB and Grafana ☆`3,563`
-1. [tcgoetz/GarminDB](https://github.com/tcgoetz/GarminDB) — Parse Connect, FIT, Fitbit, and MS Health into SQLite ☆`3,368`
-1. [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) — Python 3 wrapper to read and write Garmin Connect ☆`3,284`
-1. [endurain-project/endurain](https://github.com/endurain-project/endurain) — Self-hosted fitness tracker with full data control ☆`2,410`
-1. [Taxuspt/garmin_mcp](https://github.com/Taxuspt/garmin_mcp) — MCP server to access Garmin data ☆`1,541`
-1. [tumic0/GPXSee](https://github.com/tumic0/GPXSee) — GPS log viewer and analyzer for GPX, TCX, KML, and FIT ☆`1,267`
+1. [yihong0618/running_page](https://github.com/yihong0618/running_page) — Make your own running home page ☆`4,575`
+1. [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) — Fetch Connect health data into InfluxDB and Grafana ☆`3,564`
+1. [tcgoetz/GarminDB](https://github.com/tcgoetz/GarminDB) — Parse Connect, FIT, Fitbit, and MS Health into SQLite ☆`3,369`
+1. [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) — Python 3 wrapper to read and write Garmin Connect ☆`3,287`
+1. [endurain-project/endurain](https://github.com/endurain-project/endurain) — Self-hosted fitness tracker with full data control ☆`2,415`
+1. [Taxuspt/garmin_mcp](https://github.com/Taxuspt/garmin_mcp) — MCP server to access Garmin data ☆`1,545`
+1. [tumic0/GPXSee](https://github.com/tumic0/GPXSee) — GPS log viewer and analyzer for GPX, TCX, KML, and FIT ☆`1,270`
 1. [dtcooper/python-fitparse](https://github.com/dtcooper/python-fitparse) — Python library to parse ANT/Garmin .FIT files ☆`826`
 1. [jaroslawhartman/withings-sync](https://github.com/jaroslawhartman/withings-sync) — Synchronisation of Withings weight ☆`705`
 1. [garmin/connectiq-apps](https://github.com/garmin/connectiq-apps) — A collection of Connect IQ apps. ☆`596`
 1. [cyberjunky/home-assistant-garmin_connect](https://github.com/cyberjunky/home-assistant-garmin_connect) — Garmin Connect data in Home Assistant ☆`591`
 1. [pe-st/garmin-connect-export](https://github.com/pe-st/garmin-connect-export) — Download Garmin Connect stats and GPX tracks ☆`498`
 1. [warmsound/crystal-face](https://github.com/warmsound/crystal-face) — Garmin Connect IQ watch face ☆`469`
-1. [house-of-abbey/GarminHomeAssistant](https://github.com/house-of-abbey/GarminHomeAssistant) — Home Assistant dashboard on a Garmin watch ☆`380`
+1. [house-of-abbey/GarminHomeAssistant](https://github.com/house-of-abbey/GarminHomeAssistant) — Home Assistant dashboard on a Garmin watch ☆`381`
 1. [alex-hhh/ActivityLog2](https://github.com/alex-hhh/ActivityLog2) — Analyze data from swim, bike and run activities ☆`369`
 1. [peregin/gps-overlay-on-video](https://github.com/peregin/gps-overlay-on-video) — Telemetry (GPS) data overlay on videos ☆`363`
 1. [philosowaffle/peloton-to-garmin](https://github.com/philosowaffle/peloton-to-garmin) — Convert Peloton workouts to FIT and upload ☆`360`
@@ -232,12 +232,12 @@ Connect IQ apps, Garmin Connect API, FIT tools, maps, and integrations. This awe
 1. [arpanghosh8453/fit-dashboard](https://github.com/arpanghosh8453/fit-dashboard) — Offline desktop dashboard for Garmin FIT files ☆`245`
 1. [lswiderski/mi-scale-exporter](https://github.com/lswiderski/mi-scale-exporter) — Export Mi Scale body composition to Garmin Connect ☆`242`
 1. [jimmykane/quantified-self](https://github.com/jimmykane/quantified-self) — Central app for Garmin, Suunto, and Coros data ☆`237`
-1. [KristianP26/ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) — BLE scale bridge to Connect, Strava, MQTT, and files ☆`230`
+1. [KristianP26/ble-scale-sync](https://github.com/KristianP26/ble-scale-sync) — BLE scale bridge to Connect, Strava, MQTT, and files ☆`231`
 1. [ludw/Segment34mkII](https://github.com/ludw/Segment34mkII) — 34-segment watch face with moon, weather, and health ☆`228`
 1. [polyvertex/fitdecode](https://github.com/polyvertex/fitdecode) — A FIT file parsing and decoding library written in Python3 ☆`221`
 1. [Pythe1337N/garmin-connect](https://github.com/Pythe1337N/garmin-connect) — JavaScript client to get or set Garmin Connect data ☆`197`
 1. [Nicolasvegam/garmin-connect-mcp](https://github.com/Nicolasvegam/garmin-connect-mcp) — MCP with 61 Garmin Connect health and fitness tools ☆`193`
-1. [drkostas/hevy2garmin](https://github.com/drkostas/hevy2garmin) — Sync Hevy workouts, sets, and HR to Garmin Connect ☆`190`
+1. [drkostas/hevy2garmin](https://github.com/drkostas/hevy2garmin) — Sync Hevy workouts, sets, and HR to Garmin Connect ☆`191`
 1. [muktihari/fit](https://github.com/muktihari/fit) — Go FIT SDK for protocol v2 encode and decode ☆`183`
 1. [maca88/SmartBikeLights](https://github.com/maca88/SmartBikeLights) — Garmin application for ANT+ bike lights ☆`173`
 1. [nrvim/garmin-givemydata](https://github.com/nrvim/garmin-givemydata) — Local SQLite archive of Connect data with MCP ☆`173`
@@ -245,7 +245,7 @@ Connect IQ apps, Garmin Connect API, FIT tools, maps, and integrations. This awe
 1. [garmin/fit-python-sdk](https://github.com/garmin/fit-python-sdk) — Official Garmin FIT Python SDK ☆`170`
 1. [mgifos/quick-plan](https://github.com/mgifos/quick-plan) — Defines and schedules Garmin workouts ☆`157`
 1. [Likenttt/garmin-connectiq-samples-brief-explanations](https://github.com/Likenttt/garmin-connectiq-samples-brief-explanations) — Connect IQ samples and FAQ notes ☆`144`
-1. [diegoscarabelli/garmin-health-data](https://github.com/diegoscarabelli/garmin-health-data) — CLI to download Connect data into local SQLite ☆`134`
+1. [diegoscarabelli/garmin-health-data](https://github.com/diegoscarabelli/garmin-health-data) — CLI to download Connect data into local SQLite ☆`135`
 1. [mkuthan/garmin-workouts](https://github.com/mkuthan/garmin-workouts) — Command line tool for managing Garmin workouts. ☆`128`
 1. [gcormier9/GRun](https://github.com/gcormier9/GRun) — Configurable Garmin Watch datafield ☆`123`
 1. [ch1bo/garmin-otp-authenticator](https://github.com/ch1bo/garmin-otp-authenticator) — HOTP, TOTP, and Steam Guard widget for Connect IQ ☆`120`
@@ -268,13 +268,13 @@ Connect IQ apps, Garmin Connect API, FIT tools, maps, and integrations. This awe
 > Updated in the last two months, and still under the star threshold. Newest first.
 
 1. [openhab/openhab-garmin](https://github.com/openhab/openhab-garmin) — Garmin widget for an openHAB home-automation server ☆`7`
-1. [zetxek/garmin-qr](https://github.com/zetxek/garmin-qr) — Garmin IQ application to generate and display QR codes and barcodes ☆`8`
+1. [bombsimon/monkey-c-rs](https://github.com/bombsimon/monkey-c-rs) — Monkey C linter, formatter, and coverage tools ☆`5`
 1. [ad220/gopro-remote-connectiq](https://github.com/ad220/gopro-remote-connectiq) — Garmin ConnectIQ widget to control a GoPro from your wrist ☆`12`
-1. [buessow/garmin](https://github.com/buessow/garmin) — Glucose displays for Garmin devices. ☆`12`
 1. [mikeller/garmin-christchurch-bus-widget](https://github.com/mikeller/garmin-christchurch-bus-widget) — Bus departures in Christchurch on a Garmin watch ☆`6`
+1. [zetxek/garmin-qr](https://github.com/zetxek/garmin-qr) — Garmin IQ application to generate and display QR codes and barcodes ☆`8`
+1. [buessow/garmin](https://github.com/buessow/garmin) — Glucose displays for Garmin devices. ☆`12`
 1. [arsfabula/Insta360-Remote-CIQ](https://github.com/arsfabula/Insta360-Remote-CIQ) — Garmin Connect IQ Remote for Insta360 Cameras ☆`14`
 1. [felwal/avganar](https://github.com/felwal/avganar) — Public transport watch app for Stockholm, Sweden ☆`12`
-1. [bombsimon/monkey-c-rs](https://github.com/bombsimon/monkey-c-rs) — Monkey C linter, formatter, and coverage tools ☆`5`
 1. [matco/connectiq-tester](https://github.com/matco/connectiq-tester) — Docker image with the Connect IQ SDK and simulator for tests ☆`11`
 1. [pedrorijo91/garmin-padel](https://github.com/pedrorijo91/garmin-padel) — padel scorekeeper garmin watch app ☆`6`
 1. [garmin/fit-c-sdk](https://github.com/garmin/fit-c-sdk) — Official Garmin FIT C SDK ☆`5`
