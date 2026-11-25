@@ -3,7 +3,7 @@
 ![Awesome](https://raw.githubusercontent.com/abordage/schemas/main/badges/awesome.svg)
 [![Last update](https://img.shields.io/github/last-commit/abordage/awesome-garmin?label=last%20update)](README.md)
 ![Repositories](https://img.shields.io/badge/repositories-117-06b6d4)
-![Total Stars](https://img.shields.io/badge/total%20stars-33,029-gold)
+![Total Stars](https://img.shields.io/badge/total%20stars-33,033-gold)
 [![License](https://img.shields.io/github/license/abordage/awesome-garmin)](LICENSE)
 
 **Automated. Curated. Ranked.**
@@ -39,7 +39,7 @@ Connect IQ apps, Garmin Connect API, FIT tools, maps, and integrations. This awe
 
 ## API Clients
 
-- [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) — Python 3 wrapper to read and write Garmin Connect ☆`3,287`
+- [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) — Python 3 wrapper to read and write Garmin Connect ☆`3,291`
 - [mkuthan/garmin-workouts](https://github.com/mkuthan/garmin-workouts) — Command line tool for managing Garmin workouts. ☆`128`
 - [sealbro/dotnet.garmin.connect](https://github.com/sealbro/dotnet.garmin.connect) — Unofficial garmin connect client ☆`46`
 - [lswiderski/yet-another-garmin-connect-client](https://github.com/lswiderski/yet-another-garmin-connect-client) — YAGCC: Yet Another Garmin Connect Client ☆`44`
@@ -211,7 +211,7 @@ Connect IQ apps, Garmin Connect API, FIT tools, maps, and integrations. This awe
 1. [yihong0618/running_page](https://github.com/yihong0618/running_page) — Make your own running home page ☆`4,575`
 1. [arpanghosh8453/garmin-grafana](https://github.com/arpanghosh8453/garmin-grafana) — Fetch Connect health data into InfluxDB and Grafana ☆`3,564`
 1. [tcgoetz/GarminDB](https://github.com/tcgoetz/GarminDB) — Parse Connect, FIT, Fitbit, and MS Health into SQLite ☆`3,369`
-1. [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) — Python 3 wrapper to read and write Garmin Connect ☆`3,287`
+1. [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect) — Python 3 wrapper to read and write Garmin Connect ☆`3,291`
 1. [endurain-project/endurain](https://github.com/endurain-project/endurain) — Self-hosted fitness tracker with full data control ☆`2,415`
 1. [Taxuspt/garmin_mcp](https://github.com/Taxuspt/garmin_mcp) — MCP server to access Garmin data ☆`1,545`
 1. [tumic0/GPXSee](https://github.com/tumic0/GPXSee) — GPS log viewer and analyzer for GPX, TCX, KML, and FIT ☆`1,270`
@@ -262,7 +262,7 @@ Connect IQ apps, Garmin Connect API, FIT tools, maps, and integrations. This awe
 
 ---
 
-## 🌱 40 rising
+## 🌱 39 rising
 
 > Updated in the last two months, and still under the star threshold. Newest first.
 
@@ -305,7 +305,6 @@ Connect IQ apps, Garmin Connect API, FIT tools, maps, and integrations. This awe
 1. [serroba/mace-clubs](https://github.com/serroba/mace-clubs) — Connect IQ workouts for steel mace and club training ☆`1`
 1. [suskozaver/gkg](https://github.com/suskozaver/gkg) — Google Keep lists on the watch, via a self-hosted server ☆`1`
 1. [grafstrom/ORun](https://github.com/grafstrom/ORun) — Orienteering data-field for Garmin Connect IQ devices ☆`3`
-1. [lindig/fit](https://github.com/lindig/fit) — Minimal OCaml library to parse Garmin FIT files ☆`11`
 
 
 
